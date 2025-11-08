@@ -8,7 +8,7 @@ An intelligent FastAPI-based service that generates high-quality website mockups
 
 ## ✨ Features
 
-- **AI-Powered Generation** – Uses OpenAI DALL-E 3 to create realistic, professional website mockups
+- **AI-Powered Generation** – Uses OpenAI GPT-IMAGE-1 to create realistic, professional website mockups
 - **Email Delivery** – Automatically sends generated mockups to clients via email
 - **RESTful API** – Clean, well-documented endpoints with Swagger UI
 - **Security** – IP-based access control and CORS middleware
