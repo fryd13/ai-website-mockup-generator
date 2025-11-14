@@ -8,14 +8,9 @@ An intelligent FastAPI-based service that generates high-quality website mockups
 
 ## ✨ Features
 
-- **AI-Powered Generation** – Uses OpenAI GPT-IMAGE-1 to create realistic, professional website mockups
-- **Email Delivery** – Automatically sends generated mockups to clients via email
-- **RESTful API** – Clean, well-documented endpoints with Swagger UI
-- **Security** – IP-based access control and CORS middleware
-- **High Performance** – Built with FastAPI and async/await for maximum throughput
-- **Type Safety** – Full type hints and Pydantic validation
-- **Professional Output** – Generates mockups optimized for 1024x1536 resolution with clean typography
-
+- **AI-Powered Generation**
+- **Email Delivery**
+- **REST API**
 ---
 
 ## 📋 Tech Stack
